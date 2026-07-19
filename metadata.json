@@ -1,0 +1,6 @@
+{
+  "name": "SafeStadium AI",
+  "description": "Next-Gen Stadium Operations & Local AI Management mock application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
